@@ -1,0 +1,43 @@
+{
+  "markdown:add-metadata-property": [],
+  "workspace:close-window": [],
+  "workspace:close": [],
+  "command-palette:open": [],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:delete-paragraph": [],
+  "editor:follow-link": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "workspace:previous-tab": [],
+  "graph:open": [],
+  "editor:insert-link": [],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "workspace:new-tab": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [],
+  "app:open-settings": [],
+  "switcher:open": [],
+  "editor:open-search": [],
+  "global-search:open": [],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "terminal:clear-terminal": [],
+  "terminal:close-terminal": [],
+  "terminal:find-in-terminal": [],
+  "terminal:toggle-focus-on-last-terminal": [],
+  "editor:toggle-bold": [],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-comments": [],
+  "editor:toggle-italics": [],
+  "markdown:toggle-preview": [],
+  "workspace:undo-close-pane": []
+}

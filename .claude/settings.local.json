@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch",
+      "WebSearch",
+      "mcp__ide__getDiagnostics",
+      "Skill",
+      "Read",
+      "Glob",
+      "Grep"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "microsoft-learn"
+  ],
+  "outputStyle": "Learning"
+}

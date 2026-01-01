@@ -1,0 +1,10 @@
+{
+  "defaultViewMode": "preview",
+  "spellcheck": false,
+  "promptDelete": false,
+  "trashOption": "none",
+  "newFileLocation": "root",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true
+}

@@ -1,0 +1,35 @@
+{
+    "C_Cpp.inlayHints.autoDeclarationTypes.enabled": true,
+    "C_Cpp.inlayHints.autoDeclarationTypes.showOnLeft": true,
+    "C_Cpp.inlayHints.parameterNames.enabled": true,
+    "C_Cpp.inlayHints.referenceOperator.enabled": true,
+    "C_Cpp.inlayHints.referenceOperator.showSpace": true,
+    "chat.disableAIFeatures": true,
+    "claudeCode.disableLoginPrompt": true,
+    "claudeCode.initialPermissionMode": "acceptEdits",
+    "claudeCode.preferredLocation": "sidebar",
+    "claudeCode.respectGitIgnore": true,
+    "claudeCode.useTerminal": true,
+    "cmake.ctest.testExplorerIntegrationEnabled": false,
+    "cmake.generator": "Ninja",
+    "color-highlight.matchWords": true,
+    "explorer.excludeGitIgnore": true,
+    "sonarlint.disableTelemetry": true,
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\build\\compile_commands.json",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "args": [
+                "/k",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio\\18\\BuildTools\\Common7\\Tools\\VsDevCmd.bat",
+                "-arch=x64",
+                "-host_arch=x64"
+            ],
+            "icon": "terminal-cmd",
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ]
+        }
+    }
+}

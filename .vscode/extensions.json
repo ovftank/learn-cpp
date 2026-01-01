@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    // C/C++ Language Support
+    "ms-vscode.cpptools",
+    // CMake Tools Integration
+    "ms-vscode.cmake-tools",
+    // Run CPP - Build và chạy code C/C++ trên Windows
+    "ovfteam.run-cpp",
+    // Error Lens - Show errors inline
+    "usernamehw.errorlens",
+    // Indent Rainbow - Colorize indentation levels for better code readability
+    "oderwat.indent-rainbow",
+    // TODO Highlight - Highlight TODO, FIXME comments
+    "Gruntfuggly.todo-tree",
+    // SonarLint - Code quality and security analysis
+    "SonarSource.sonarlint-vscode",
+  ]
+}
