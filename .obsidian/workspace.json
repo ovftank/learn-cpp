@@ -11,15 +11,10 @@
             "id": "31e55f9c94b3b737",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guide.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "guide"
+              "title": "New tab"
             }
           }
         ]
